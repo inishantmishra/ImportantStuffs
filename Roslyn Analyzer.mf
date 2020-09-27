@@ -6,7 +6,7 @@ Roslyn analyzers analyze your code for style, quality and maintainability, desig
 
 Microsoft created a set of analyzers called Microsoft.CodeAnalysis.FxCopAnalyzers that contains the most important "FxCop" rules from static code analysis, converted to Roslyn analyzers. These analyzers check your code for security, performance, and design issues, among others. The documentation for FxCop analyzers in Visual Studio can be found at docs.microsoft.com/visualstudio/code-quality/install-fxcop-analyzers.
 
-Installation
+<h3>Installation</h3>
 Visual Studio includes a core set of .NET Compiler Platform (Roslyn) analyzers. These analyzers are always on. You can install additional analyzers either as NuGet packages, or as Visual Studio extensions in VSIX files. At the very least you should install the following Analyzer:
 
 Microsoft.CodeAnalysis.FxCopAnalyzers
