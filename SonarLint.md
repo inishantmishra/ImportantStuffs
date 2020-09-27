@@ -1,5 +1,6 @@
 This page provides some additional information about SonarLint and how it can be used.
 
+
 Description
 SonarLint is an IDE extension that helps you detect and fix quality issues as you write code. Like a spell checker, SonarLint squiggles flaws so that they can be fixed before committing code. HBB source control will be integrated with SonarQube on the server side in the near future. This will start to provide feedback on code quality and style as code is committed and scanned. As well as improving the code quality as we develop, SonarLint will reduce the amount of issues detected by SonarQube. Subsequently SonarLint in the IDE can be integrated with SonarQube to scan for the specific rules defined by SonarQube, enabling us to proactively resolve any issues as opposed to waiting from feedback from SonarQube.
 
